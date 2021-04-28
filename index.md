@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## CONCRETO ARMADO: Uma introdução ao projeto de peças de concreto armado
+### _Volume 1_
 
-You can use the [editor on GitHub](https://github.com/livroeca1/CONCRETO-VOLUME-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Repositório Educacional Aberto de Estruturas de Concreto (**REACOA**) - _Volume 1_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Autores:
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)
+- Prof. Areffy L. Cardoso Lima
 
-### Markdown
+Seja bem vindo ao REA (Repositório Educacional Aberto) de Estruturas de Concreto do Grupo de Pesquisa e Ensino em Engenharia (**GPEE**). Nosso objetivo é formentar o desenvolvimento de um material didático em Concreto Armado que seja de fácil acesso para professores, alunos, profissionais e demais interessados em aprender mais sobre este eixo temático da Engenhaia Civil. Porém um REA só tem sucesso se você participar! Você pode nós apontar erros ou fazer sugestões. Caso deseje contribuir entre em contato pelo _e-mail: **livroeca1vol1@gmail.com**_ Todas as sugestões são muito bem vindas.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Caso durante o uso do material verifiquem algum tipo de violação de direitos autorais por favor nos avise, iremos atender prontamente a solicitação.  
 
-```markdown
-Syntax highlighted code block
+No *REACOA* volume I você tem acesso irrestrito a todas as páginas elaboradas do material e demais conteúdos.
 
-# Header 1
-## Header 2
-### Header 3
+É válido salientar também que nosso conteúdo está protegido por uma licença do tipo _Creative Commons_ do tipo CC-BY-NC-ND (Atribuição + NãoComercial + SemDerivações). Para consultar detalhes sobre as licenças _Creative Commons_ clique no [_link_](https://pt.wikipedia.org/wiki/Licenças_Creative_Commons).
 
-- Bulleted
-- List
+### Apresentação do curso:
+O curso de Concreto Armado Volume I é destinado para aqueles que desejam ingressar no mundo do dimensionamento de peças de concreto armado. Aqui o aluno aprenderá a entender quais as ferramentas necessárias para se elaborar um projeto em estruturas de concreto, principalmente o concreot armado. Neste _volume 1_ passaremos pelas propriedades do material e critérios técnicos para o dimensionamento dessas peças. Este curso também é ministrado no formato presencial na Universidade Federal de Catalão (UFCAT) pelo professor Wanderlei M. Pereira Junior.  
 
-1. Numbered
-2. List
+O requisitos básicos do curso são baseados na disciplinas de resistência dos materiais e também na análise de estruturas, visto que estes recursos são amplamente empregados ao longo do conteúdo. Embarque nessa jornada.   
 
-**Bold** and _Italic_ and `Code` text
+Para acessar o conteúdo basta clicar nos itens do sumário:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/livroeca1/CONCRETO-VOLUME-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Sumário
+#### [1.0: OS PRIMEIROS PASSOS PARA SE PROJETAR EM CONCRETO ARMADO](https://livroeca1.github.io/LIVRO-ECA-1-VOL-1/CAP10000.html)
+#### [2.0: OS PRIMEIROS PASSOS PARA SE PROJETAR EM CONCRETO ARMADO](https://livroeca1.github.io/LIVRO-ECA-1-VOL-1/CAP10000.html)
+#### [3.0: OS PRIMEIROS PASSOS PARA SE PROJETAR EM CONCRETO ARMADO](https://livroeca1.github.io/LIVRO-ECA-1-VOL-1/CAP10000.html)
